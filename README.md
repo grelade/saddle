@@ -10,7 +10,9 @@ Simply look into example files:
 * ex2_contour_plot.py
 <img src="contour_plot.png" alt="drawing" width="600"/>
 Running algorithm finding saddle point with index k=1 for two-dimensional Rastrigin function
+
 * ex3_benchmark.py
+
 ![preliminary benchmark plot for functions of up to N=100 dimensions](benchmark.pdf)
 * ex4_gauss_random_parabolic.py
 
