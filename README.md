@@ -8,7 +8,8 @@ A simple python library for finding saddle points of arbitrary stability index
 Simply look into example files:
 * ex1_basic.py
 * ex2_contour_plot.py
-![example of algorithm finding saddle point with index k=1 for two-dimensional Rastrigin function](contour_plot.png =100x)
+<img src="contour_plot.png" alt="drawing" width="200"/>
+example of algorithm finding saddle point with index k=1 for two-dimensional Rastrigin function
 * ex3_benchmark.py
 ![preliminary benchmark plot for functions of up to N=100 dimensions](benchmark.pdf)
 * ex4_gauss_random_parabolic.py
