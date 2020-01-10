@@ -8,8 +8,8 @@ A simple python library for finding saddle points of arbitrary stability index
 Simply look into example files:
 * ex1_basic.py
 * ex2_contour_plot.py
-<img src="contour_plot.png" alt="drawing" width="200"/>
-example of algorithm finding saddle point with index k=1 for two-dimensional Rastrigin function
+<img src="contour_plot.png" alt="drawing" width="600"/>
+Running algorithm finding saddle point with index k=1 for two-dimensional Rastrigin function
 * ex3_benchmark.py
 ![preliminary benchmark plot for functions of up to N=100 dimensions](benchmark.pdf)
 * ex4_gauss_random_parabolic.py
@@ -21,4 +21,6 @@ help(find_saddle)
 help(show_trajectory)
 ```
 # GAD Algorithm
-Implemented algorithm is the Gentlest Ascent Dynamics described in [https://link.springer.com/article/10.1007/s00214-018-2246-8] and [https://iopscience.iop.org/article/10.1088/0951-7715/24/6/008/meta].
+Implemented algorithm is the Gentlest Ascent Dynamics described in:
+* [https://link.springer.com/article/10.1007/s00214-018-2246-8],
+* [https://iopscience.iop.org/article/10.1088/0951-7715/24/6/008/meta].
